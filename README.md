@@ -7,32 +7,42 @@ company to predict potential leads and thus increase the Lead conversion rate fr
 
 
 CONCLUSION: 
+
 INSIGHTS FROM EDA: 
+
  Target variable has Data imbalance. 62% peoples are not converted 
-while 38% people are converted. 
+while 38% people are converted.
+
  Most of the lead sources are either from Google or they are Direct 
 Traffic. While leads from Google and Organic Search have high 
 conversion rate compared to others. 
+
  People who are Unemployed have shown most interest in the course. 
 While working professional people have shown a greater number of 
 conversions followed by unemployed people. X-education should 
 target Working professional people more for higher lead conversion. 
+
  People who have expectation of “Better Career Prospects” have 
 largely shown interest in this course with almost 50% conversion. X-
 education should focus on providing more career opportunities along 
 with course to get more lead conversions. 
+
  People who have sent the SMS to X-education have shown huge 
 conversion. X-education should focus on LEAD who have contacted 
 X-Education through similar SMS. 
 
 
 TOP VARIABLE CONTRIBUTING TO CONVERSION: 
+
  LEAD SOURCE: 
 o Total Time Spent on Website 
+
  Lead Origin: 
 o Lead Add Form 
+
  Lead source: 
 o Welingak website 
+
  Occupation: 
 o Working professional 
 
